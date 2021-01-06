@@ -1,0 +1,33 @@
+{
+  "courses": [
+    {
+      "id": 8,
+      "title": "Architecting Applications for the Real World111",
+      "slug": "architecting-applications-dotnet",
+      "authorId": 1,
+      "category": "Software Architecture"
+    },
+    {
+      "id": 11,
+      "slug": "react",
+      "title": "React",
+      "authorId": 1,
+      "category": "React",
+      "createdAt": 1587233993532
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Cory House"
+    },
+    {
+      "id": 2,
+      "name": "Scott Allen"
+    },
+    {
+      "id": 3,
+      "name": "Dan Wahlin"
+    }
+  ]
+}
